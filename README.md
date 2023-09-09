@@ -13,3 +13,4 @@ My solutions for LeetCode Problems
 | 7     | Array    | Product of Array                   | [View Solution](https://leetcode.com/problems/product-of-array-except-self/submissions/1040789149/)     |
 | 8     | Pointers | Palindrome                         | [View Solution](https://leetcode.com/problems/valid-palindrome/submissions/1040807881/)                 |
 | 9     | Pointers | Two Sum II - Input Array Is Sorted | [View Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1041743659/) |
+| 10    | Stack    | Valid Paranthesis                  | [View Solution](https://leetcode.com/problems/valid-parentheses/submissions/1045077359/)                |
