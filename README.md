@@ -15,3 +15,4 @@ My solutions for LeetCode Problems
 | 9     | Pointers      | Two Sum II - Input Array Is Sorted | [View Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1041743659/) |
 | 10    | Stack         | Valid Paranthesis                  | [View Solution](https://leetcode.com/problems/valid-parentheses/submissions/1045077359/)                |
 | 11    | Binary Search | Binary Search                      | [View Solution](https://leetcode.com/problems/binary-search/submissions/1045113317/)                    |
+| 12    | Binary Search | Median of 2 sorted arrays          | [View Solution] (https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1045154444/)     |
